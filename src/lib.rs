@@ -1,5 +1,5 @@
 
 
-pub fn get_version() -> str {
-    "0.1"
+pub fn get_version() -> String {
+    String::from("0.1")
 }
